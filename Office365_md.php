@@ -1,5 +1,5 @@
 <?php
-include '../../../configuration.php';//引入数据库配置文件
+include '../../../configuration.php';//引入数据库配置文件(可根据需求更改,但是一定要按照WHMCS数据库配置文件的格式）
 include 'api.php';//引入API文件
 /**
  * WHMCS SDK Sample Provisioning Module
